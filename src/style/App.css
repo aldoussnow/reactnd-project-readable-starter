@@ -1,0 +1,130 @@
+/* GENERAL */
+h1 {
+  margin-left: 15px;
+}
+
+/* HOME PAGE*/
+.home-page {
+  margin: 15px 15px 50px 15px;
+}
+
+.home-page .visible-posts {
+  margin-top: 15px;
+}
+
+.home-page .btn-toolbar {
+  margin-bottom: 10px;
+  position: absolute;
+  right: 15px;
+}
+
+a {
+  cursor: pointer;
+}
+
+/* PANEL */
+
+.panel-footer span {
+  cursor: pointer;
+}
+
+.panel-title {
+  position: relative;
+}
+
+.panel-title h3 {
+  font-size: 18px;
+}
+
+.panel-title .votes {
+  position: absolute;
+  bottom: 0;
+  right: 5px;
+}
+
+.panel-title .votes i {
+  margin-right: 5px;
+  cursor: pointer;
+}
+
+
+/* CREATE POST PAGE */
+.create-post-page {
+  margin: 75px;
+}
+
+.button-bar {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  padding: 5px 0;
+  z-index: 1;
+  background: rgba(255, 255, 255, .9);
+  border-top: 1px solid #ccc;
+}
+
+/* COMMENTS */
+.panel-body {
+  position: relative;
+}
+
+.comments > a.add-comment span {
+  margin-left: 5px;
+}
+
+.comments .well {
+  border-radius: 70px;
+  margin-top: 5px;
+  position: relative;
+  background: rgba(250,250,250,0.7);
+}
+
+.comments .well .controls {
+  position: absolute;
+  right: 15px;
+  top: 20px;
+}
+
+.comments .well .control {
+  margin-right: 15px;
+  cursor: pointer;
+}
+.comments .well .control i {
+  margin-right: 5px;
+}
+
+/* POST DETAIL PAGE*/
+.post-detail-page .controls {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+._loading-overlay {
+  position: absolute !important;
+  right: 0;
+  left: 0;
+  top: 0;
+  bottom: 0;
+}
+
+.ehahvv {
+  background: rgba(255, 255, 255, .7) !important;
+}
+
+.ifESgF {
+  stroke: #337ab7 !important;
+}
+
+.izTKZL + div {
+  color: #337ab7 !important;
+}
+
+/* POST Page*/
+
+.visible-posts .controls {
+  position: absolute;
+  top: -3px;
+  right: 0;
+}
+
